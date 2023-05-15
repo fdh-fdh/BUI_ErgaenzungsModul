@@ -8,4 +8,5 @@ Email: Donghao.fang@tum.de
 
 2022 all rights reserve
 
-No guarantee for corrections.
+No guarantee for correctness
+
